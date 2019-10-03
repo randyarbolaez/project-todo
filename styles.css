@@ -58,3 +58,9 @@ h1 {
   color: #ff0682;
   align-items: flex-end;
 }
+
+@media (min-width: 1200px) {
+  .sub-wrapper-one h2 {
+    font-size: 4rem;
+  }
+}
